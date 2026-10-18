@@ -1,0 +1,36 @@
+{
+  "node": {
+    "600ae6db401a5a3bd671c1a1073216fb264c2f9607": {
+      "workers": {
+        "app/page": {
+          "moduleId": 57526,
+          "async": false
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "submitEmail"
+    },
+    "609fca2a8fe1d3f1ddea35a21995423414cdf4a821": {
+      "workers": {
+        "app/page": {
+          "moduleId": 57526,
+          "async": false
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "submitName"
+    },
+    "60c7caf8aa5117eb9b1d89b12f606ea68631d3c0d2": {
+      "workers": {
+        "app/page": {
+          "moduleId": 57526,
+          "async": false
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "submitPassword"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "BkTMU3i86HmE/2Vy4/bu4LdSBJ1WveaE4mUP0fZwtf0="
+}
